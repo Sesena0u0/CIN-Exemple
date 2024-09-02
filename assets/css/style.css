@@ -1,0 +1,31 @@
+.cardCin{
+    width: 500px;
+    height: 310px;
+    background: linear-gradient(#fdf6cb, 80%, #d9fdbb);
+}
+
+#img-cin{
+    background-image: url("../img/sesena.png");
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+.font-timesN{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.f-sm{
+    font-size: 14px;
+}
+
+.f-xsm{
+    font-size: 10px;
+}
+
+.nmrCin td{
+    width: 18px;
+}
